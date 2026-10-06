@@ -1,0 +1,12 @@
+=== Order Summary ===
+Customer: Alex Mercer
+Items Ordered: 3 drinks at $145.5 each
+Subtotal: $436.5
+Loyalty Card Active: true
+Qualifies for Bulk Order Discount: true
+
+=== Rewards Breakdown ===
+Total Stamps Collected: 6
+Free Drink Vouchers Earned: 1
+Stamps Left Toward Next Voucher: 1
+Earned at least one free drink: true

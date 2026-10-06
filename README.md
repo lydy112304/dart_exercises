@@ -6,7 +6,7 @@
 
 ## How to Run
 
-Ensure Dart is installed and run:
+Ensure Dart is installed and run the following command from the project root:
 
 ```bash
 dart run
